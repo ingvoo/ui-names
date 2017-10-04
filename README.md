@@ -26,16 +26,19 @@ A collection of good (and bad) ui names.
 - Callout
 - Tile
 - Hero
+- Group
 
 ## Navigation
 - Navigation 
 - Menu (Submenu)
-- Off canvas
+- Off canvas (Drawer)
 - Breadcrumb
+- Pagination
+- Filter
 
 ## Form
 - Field
-- Floated (label)
+- Floated label
 
 ## Button variations
 - Call to action
@@ -44,3 +47,14 @@ A collection of good (and bad) ui names.
 - Ghost button
 - Ninja button
 - Ternary button
+
+## Components
+- Modal (Dialog, Popup, Alert, Lightbox)
+- Carousel (Slider, Slideshow)
+- Gallery (Media, )
+
+## Global modifiers
+- expanded (full width)
+- translucent (container with transparency often image in background)
+- sticky
+- rounded
