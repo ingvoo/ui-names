@@ -1,42 +1,46 @@
 # UI Names
 A collection of good (and bad) ui names. 
 
+## Layout
+- Wrapper (all-site-wrapper)
+- Container
+- Main
+- Content
+- Sidebar (aside)
+- Footer (colophon)
+
 ## Typography
 - Headline
 - Heading
-- Title
-- Subtitle
-- Subline
-- Page Title
-- Site Title
+- Title (Subtitle, Pagetitle, Sitetitle)
+- Lead
 - Eyebrow
 - Meta
 
 ## Blocks
 - Card
 - Block
-- Wrapper
-- Container
 - Excerpt
-- Lead
 - Summary
 - Tout
 - Callout
-- Hero
 - Tile
-- callout
+- Hero
 
 ## Navigation
-- off-canvas
+- Navigation 
+- Menu (Submenu)
+- Off canvas
+- Breadcrumb
 
 ## Form
 - Field
 - Floated (label)
 
 ## Button variations
-- call-to-action
+- Call to action
 - Fill button
-- outline button
-- ghost button
-- ninja button
-- ternary button
+- Outline button
+- Ghost button
+- Ninja button
+- Ternary button
