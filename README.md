@@ -58,3 +58,6 @@ A collection of good (and bad) ui names.
 - translucent (container with transparency often image in background)
 - sticky
 - rounded
+
+## Misc
+- Narrative, measure (utility class that holds blocks of text within certain amount of characters)
