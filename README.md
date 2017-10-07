@@ -33,6 +33,7 @@ A collection of good (and bad) ui names.
 - Menu (Submenu)
 - Off canvas (Drawer)
 - Breadcrumb
+- Dropdown 
 - Pagination
 - Filter
 
@@ -49,9 +50,13 @@ A collection of good (and bad) ui names.
 - Ternary button
 
 ## Components
+- Badge (label, tag)
+- Collapse
 - Modal (Dialog, Popup, Alert, Lightbox)
 - Carousel (Slider, Slideshow)
-- Gallery (Media, )
+- Gallery (Media)
+- Progress
+- Tooltip (Popover)
 
 ## Global modifiers
 - expanded (full width)
