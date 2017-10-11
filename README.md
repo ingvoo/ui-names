@@ -66,3 +66,4 @@ A collection of good (and bad) ui names.
 
 ## Misc
 - Narrative, measure (utility class that holds blocks of text within certain amount of characters)
+- Reduced (utility for smaller font-size)
