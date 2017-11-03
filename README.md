@@ -14,8 +14,12 @@ A collection of good (and bad) ui names.
 - Heading
 - Title (Subtitle, Pagetitle, Sitetitle)
 - Lead
-- Eyebrow
-- Meta
+- Caption
+- Meta (Legal)
+- Eyebrow (type of meta located on above a title or similar)
+
+### Naming schemes
+- [Carbon Design system](http://carbondesignsystem.com/style/typography/type-styles) (Giga, Mega, Alpha ...)
 
 ## Blocks
 - Card
