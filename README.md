@@ -40,6 +40,7 @@ A collection of good (and bad) ui names.
 - Dropdown 
 - Pagination
 - Filter
+- Tabs
 
 ## Form
 - Field
