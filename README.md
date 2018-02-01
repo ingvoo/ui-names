@@ -70,5 +70,6 @@ A collection of good (and bad) ui names.
 - rounded
 
 ## Misc
-- Narrative, measure (utility class that holds blocks of text within certain amount of characters)
+- measure (utility class that holds blocks of text within certain amount of characters)
 - Reduced (utility for smaller font-size)
+- Narrative (wrapper element that for cms based content)
