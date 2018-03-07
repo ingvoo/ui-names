@@ -9,6 +9,9 @@ A collection of good (and bad) ui names.
 - Sidebar (aside)
 - Footer (colophon)
 
+## Grid
+- padded (modifier for grid with gutter when default grid has no gutter)
+
 ## Typography
 - Headline
 - Heading
