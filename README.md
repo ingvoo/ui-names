@@ -41,6 +41,7 @@ A collection of good (and bad) ui names.
 - Pagination
 - Filter
 - Tabs
+- Traverse (arrow left and right [<- ->])
 
 ## Form
 - Field
