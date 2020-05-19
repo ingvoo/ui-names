@@ -1,5 +1,5 @@
 # UI Names
-A collection of good (and bad) ui names. 
+A collection of common good (and bad) ui names. 
 
 ## Layout
 - Wrapper (all-site-wrapper)
@@ -26,25 +26,35 @@ A collection of good (and bad) ui names.
 
 ## Blocks
 - Card
+- Callout
 - Block
+- Box
 - Excerpt
+- Group
+- Hero
+- Level
 - Summary
 - Tout
-- Callout
 - Tile
-- Hero
-- Group
+
 
 ## Navigation
-- Navigation 
-- Menu (Submenu)
-- Off canvas (Drawer)
-- Breadcrumb
-- Dropdown 
-- Pagination
-- Filter
+- breadcrumb
+- drawer
+- dropdown 
+- filter
+- menu
+- navigation
+- off-canvas
+- pagination
 - Tabs
-- Traverse (arrow left and right [<- ->])
+- Traverse 
+  - (arrow left and right [<- ->])
+
+### prefixes and suffixes (wip)
+- sub-
+- is-
+- has-
 
 ## Form
 - Field
@@ -77,3 +87,6 @@ A collection of good (and bad) ui names.
 - measure (utility class that holds blocks of text within certain amount of characters)
 - Reduced (utility for smaller font-size)
 - Narrative (wrapper element that for cms based content)
+
+## Resources
+- [Naming Schemes](https://namingschemes.com/)
