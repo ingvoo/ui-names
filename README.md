@@ -2,41 +2,45 @@
 A collection of common good (and bad) ui names. 
 
 ## Layout
-- Wrapper (all-site-wrapper)
-- Container
-- Main
-- Content
-- Sidebar (aside)
-- Footer (colophon)
+- wrapper
+- container
+- main
+- content
+- sidebar (aside)
+- footer (colophon)
 
 ## Grid
-- padded (modifier for grid with gutter when default grid has no gutter)
+- padded (modifier for grid with gutter)
+  -  has-gap 
 
 ## Typography
-- Headline
-- Heading
-- Title (Subtitle, Pagetitle, Sitetitle)
-- Lead
-- Caption
-- Meta (Legal)
-- Eyebrow (type of meta located on above a title or similar)
+- headline
+- heading
+- title (Subtitle, Pagetitle, Sitetitle)
+- lead
+- caption
+- meta
+- eyebrow (type of meta located e.g. above a title)
+- measure (utility to prevent long lines of text)
+- reduced (utility for smaller font size)
+- narrative (wrapper element for cms generated markup)
 
 ### Naming schemes
 - [Carbon Design system](http://carbondesignsystem.com/style/typography/type-styles) (Giga, Mega, Alpha ...)
 
 ## Blocks
-- Card
-- Callout
-- Block
-- Box
-- Excerpt
-- Group
-- Hero
-- Level
-- Summary
-- Tout
-- Tile
-
+- card
+- callout
+- block
+- box
+- excerpt
+- group
+- hero
+- level
+- layout
+- summary
+- tout
+- tile
 
 ## Navigation
 - breadcrumb
@@ -47,35 +51,33 @@ A collection of common good (and bad) ui names.
 - navigation
 - off-canvas
 - pagination
-- Tabs
-- Traverse 
+- tabs
+- traverse 
   - (arrow left and right [<- ->])
 
-### prefixes and suffixes (wip)
-- sub-
-- is-
-- has-
+
 
 ## Form
-- Field
-- Floated label
-
-## Button variations
-- Call to action
-- Fill button
-- Outline button
-- Ghost button
-- Ninja button
-- Ternary button
+- field
+- floated label
 
 ## Components
-- Badge (label, tag)
-- Collapse
-- Modal (Dialog, Popup, Alert, Lightbox)
-- Carousel (Slider, Slideshow)
-- Gallery (Media)
-- Progress
-- Tooltip (Popover)
+- accordion
+- badge (label, tag)
+- collapse
+- modal (Dialog, Popup, Alert, Lightbox)
+- carousel (Slider, Slideshow)
+- gallery (Media)
+- progress bar
+- tooltip (Popover)
+
+
+## Button variations
+- call to action (cta)
+- fill (full width button)
+- outline
+- ghost
+- ninja
 
 ## Global modifiers
 - expanded (full width)
@@ -83,10 +85,12 @@ A collection of common good (and bad) ui names.
 - sticky
 - rounded
 
-## Misc
-- measure (utility class that holds blocks of text within certain amount of characters)
-- Reduced (utility for smaller font-size)
-- Narrative (wrapper element that for cms based content)
+## Modifiers, prefixes and suffixes
+- sub-
+- is-
+- has-
 
-## Resources
+## Naming Schemes
+- primary, secondary, tertiary, quaternary, quinary
 - [Naming Schemes](https://namingschemes.com/)
+
