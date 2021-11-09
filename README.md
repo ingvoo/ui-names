@@ -10,10 +10,10 @@ A collection of common good (and bad) ui names.
 - footer (colophon)
 
 ## Grid
-- padded (modifier for grid with gutter)
-  -  has-gap 
+- gap, padded (gutter modifier) 
 
 ## Typography
+- excerpt
 - headline
 - heading
 - title (Subtitle, Pagetitle, Sitetitle)
@@ -25,59 +25,45 @@ A collection of common good (and bad) ui names.
 - reduced (utility for smaller font size)
 - narrative (wrapper element for cms generated markup)
 
-### Naming schemes
-- [Carbon Design system](http://carbondesignsystem.com/style/typography/type-styles) (Giga, Mega, Alpha ...)
-
 ## Blocks
-- card
-- callout
+- card, box, tile
+- hero, callout, banner
 - block
-- box
-- excerpt
 - group
-- hero
 - level
-- layout
+- grid, layout
 - summary
 - tout
-- tile
-
-## Navigation
-- breadcrumb
-- drawer
-- dropdown 
-- filter
-- menu
-- navigation
-- off-canvas
-- pagination
-- tabs
-- traverse 
-  - (arrow left and right [<- ->])
-
-
 
 ## Form
-- field
-- floated label
+- field, combo (label and form element block)
+- label (floated)
+- toggle
+- switch
+- select, dropdown 
 
 ## Components
 - accordion
-- badge (label, tag)
-- collapse
-- modal (Dialog, Popup, Alert, Lightbox)
-- carousel (Slider, Slideshow)
-- gallery (Media)
-- progress bar
-- tooltip (Popover)
-
+- breadcrumb
+- badge, label, tag, pill, chip
+- carousel, slider, slideshow
+- collapse, drawer
+- filter
+- gallery, media
+- menu, navigation
+- modal, dialog, popup, alert, lightbox
+- off-canvas, mobile-menu,
+- pagination
+- progress bar, steps
+- tooltip, popover
+- tabs
+- traverse (arrow left and right [<- ->])
 
 ## Button variations
-- call to action (cta)
+- call to action, cta (primary button)
 - fill (full width button)
-- outline
-- ghost
-- ninja
+- outline (transparent and border only)
+- ghost, ninja
 
 ## Global modifiers
 - expanded (full width)
@@ -85,12 +71,12 @@ A collection of common good (and bad) ui names.
 - sticky
 - rounded
 
-## Modifiers, prefixes and suffixes
+## Prefixes
 - sub-
 - is-
 - has-
 
 ## Naming Schemes
 - primary, secondary, tertiary, quaternary, quinary
+- giga, mega, alpha, beta
 - [Naming Schemes](https://namingschemes.com/)
-
