@@ -45,6 +45,7 @@ A collection of common good (and bad) ui names.
 ## Components
 - accordion
 - breadcrumb
+- button, split button, button group
 - badge, label, tag, pill, chip
 - carousel, slider, slideshow
 - collapse, drawer
