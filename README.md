@@ -37,6 +37,8 @@ A collection of common good (and bad) ui names.
 
 ## Form
 - field, combo (label and form element block)
+- input
+- [input tray](https://twitter.com/uxmovement/status/1488609792734203911)
 - label (floated)
 - toggle
 - switch
